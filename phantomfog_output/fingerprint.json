@@ -1,0 +1,15 @@
+{
+  "hostname": "kail",
+  "platform": "Linux",
+  "interfaces": [
+    {
+      "name": "lo",
+      "mac": "00:00:00:00:00:00"
+    },
+    {
+      "name": "eth0",
+      "mac": "08:00:27:df:31:49"
+    }
+  ],
+  "cpu_count": 3
+}
