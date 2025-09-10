@@ -1,15 +1,11 @@
-# PhantomFog - Advanced Security Fog Tool
+# PhantomFog -  Tool
 
-**PhantomFog** is an advanced adaptive network noise and monitoring tool.  
-It is designed for authorized testing only, creating controlled network noise, monitoring activity, and logging security events.
-
----
 
 ## Features
 
 - Adaptive network noise generation to mislead potential attackers.
 - Monitors authentication logs for suspicious activity.
-- Fingerprints system information safely.
+- 
 - Minimal web dashboard for real-time monitoring.
 - Safe and non-intrusive: does not modify or encrypt files.
 
